@@ -82,9 +82,9 @@ On mobile:
 
 If you have any issues at all, please post a full log <a href="https://github.com/AustinC07/spotify2mp3/issues">here</a>
 
-Support this project
+Support this project (couldbejake)
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/AustinC07)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/couldbejake)
 
 ## Coming soon
 
