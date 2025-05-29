@@ -28,4 +28,4 @@ python-Levenshtein
 tekore
 flask
 Werkzeug
-git+https://github.com/felipeucelli/pytubefix.git@new-player
+pytubefix
